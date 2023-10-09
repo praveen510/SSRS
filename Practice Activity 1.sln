@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Practice Activity 1", "Practice Activity 1\Practice Activity 1.rptproj", "{B03B8675-42D8-4F96-89A3-49FD3F377E02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B03B8675-42D8-4F96-89A3-49FD3F377E02}.Debug|Default.ActiveCfg = Debug
+		{B03B8675-42D8-4F96-89A3-49FD3F377E02}.Debug|Default.Build.0 = Debug
+		{B03B8675-42D8-4F96-89A3-49FD3F377E02}.Debug|Default.Deploy.0 = Debug
+		{B03B8675-42D8-4F96-89A3-49FD3F377E02}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{B03B8675-42D8-4F96-89A3-49FD3F377E02}.DebugLocal|Default.Build.0 = DebugLocal
+		{B03B8675-42D8-4F96-89A3-49FD3F377E02}.Release|Default.ActiveCfg = Release
+		{B03B8675-42D8-4F96-89A3-49FD3F377E02}.Release|Default.Build.0 = Release
+		{B03B8675-42D8-4F96-89A3-49FD3F377E02}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBFF12E7-76B0-4EAD-ADAE-98A5B94BE7A0}
+	EndGlobalSection
+EndGlobal
